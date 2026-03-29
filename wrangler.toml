@@ -1,6 +1,5 @@
 name = "github-oauth-login"
-type = "javascript"
+main = "github-oauth-login.js"
 account_id = "840ac009553098569a225340bd5a6571"
 workers_dev = true
-route = ""
-zone_id = ""
+compatibility_date = "2026-03-28"
